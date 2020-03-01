@@ -1,0 +1,1 @@
+# Simple Quadrature Encoder Parsing
